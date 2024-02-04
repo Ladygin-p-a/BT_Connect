@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Обмен данными по Bluetooth</string>
+    <string name="btnFindBTDevice">Найти устройства</string>
+    <string name="btnFindNewDevice">Найти новые устройства</string>
+    <string name="btnSend">Отправить</string>
+    <string name="tvCaption1">Список сопряженных устройств</string>
+    <string name="tvCaption2">Список новых устройств</string>
+    <string name="SelectBT_DeviceActivity_lable">Выбор устройства</string>
+    <string name="tvFindBTDevice">Выберите устройство для соединения</string>
+    <string name="error_connect">Не удалось соединиться с устройством</string>
+    <string name="valid_connect">Соединение с устройством прошло успешно</string>
+    <string name="connecting">Идет подключение к устройству</string>
+    <string name="selectDeviceMenuItem">Выбор устройства</string>
+</resources>
